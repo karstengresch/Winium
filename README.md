@@ -23,7 +23,7 @@ You have Selenium WebDriver for testing of web apps, Appium for testing of iOS a
 [![GitHub release](https://img.shields.io/github/release/2gis/Winium.Desktop.svg?style=flat-square)](https://github.com/2gis/Winium.Desktop/releases/)
 [![GitHub license](https://img.shields.io/badge/license-MPL 2.0-blue.svg?style=flat-square)](LICENSE)
 
-Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinFroms and WPF platforms.
+Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinForms and WPF platforms.
 
 ### Supported Platforms
 - WinForms
